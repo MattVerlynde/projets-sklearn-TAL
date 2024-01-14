@@ -7,5 +7,5 @@ Ce repository se compose de deux dossiers contenant les deux projets de programm
 - projet-TAL : contient un notebook movie_classement.ipynb sur un exercice de classification de revues de films, et presidents_classement.ipynb sur un exercice de classification de citations de présidents français.
 
 Auteurs :
-Paul Rousseau
+Paul Rousseau, 
 Matthieu Verlynde
